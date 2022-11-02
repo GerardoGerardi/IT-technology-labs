@@ -69,9 +69,7 @@
 Работа с Сisco Packet Tracer.
 
 Материалы о выполнении лабораторной работы:
-
-Проект: Project  
-Информация о конфигурации устройств: Device Configuration Information  
-Сценарий для настройки устройств: Command script in cisco  
+1. Сценарий
+2. Отчёт
 ## ✅ Экзаменационный билет
 Ответ на экзаменационный билет доступен по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28> билет 28 </a>
