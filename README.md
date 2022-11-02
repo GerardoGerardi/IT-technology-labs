@@ -51,6 +51,7 @@
 #### • Backend:  
       o Язык программирования С#;
       o Microsoft SQL Server Managment Studio;  
+      o Шаблон проектирования архитектуры приложения MVC
       o Платформа разработки веб-приложений ASP.NET Core;  
       o Технология доступа к данным Entity Framework Core;  
 #### • Frontend:
