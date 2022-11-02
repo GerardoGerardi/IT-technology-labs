@@ -7,7 +7,7 @@
 3. Создание личной страницы.  
 4. Размещение кода исходной страницы в репозитории.  
 5. Размещение странички на хостинге.  
-6. Веб-страничка с описанием лабораторных работ доступна по ссылке: Web-Page <a href=https://github.com/GerardoGerardi/IT-technology-workout> Landing page  </a>     
+6. Веб-страничка с описанием лабораторных работ доступна по ссылке:  <a href=https://github.com/GerardoGerardi/IT-technology-workout> Web-Page  </a>     
 
 
 ## ✅ Лабораторная работа № 2  
