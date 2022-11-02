@@ -69,8 +69,9 @@
 ## ✅ Лабораторная работа № 3  
 Работа с Сisco Packet Tracer.
 
-Материалы о выполнении лабораторной работы:
-1.  <a href=> Сценарий </a>  
-2. <a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/CISCO%20LR3-seti5/IDB-18-02_Saad_Ali_LR5_Seti%20.docx> Отчёт </a>
+Материалы о выполнении лабораторной работы:  
+1. <a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/CISCO%20LR3-seti5/IDB-18-02_Saad_Ali_LR5_Seti%20.docx> Отчёт </a> c информацией о конфигурации устройств  
+2. <a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%20%D0%BF%D0%BE%20%D0%9B%D0%A03%20%2C%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20CISCO/Saaad_Ali_iskhod_Stsenariy_4_dlya_CPT.pka> Сценарий  </a> для настройки устройств 
+3. Информация о <a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%20%D0%BF%D0%BE%20%D0%9B%D0%A03%20%2C%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20CISCO/Seti_khod_vypolnenia_lr4_saad.txt>   конфигурации  </a> устройств
 ## ✅ Экзаменационный билет
 Ответ на экзаменационный билет доступен по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28> билет 28 </a>
