@@ -50,7 +50,7 @@
 ## Используемые средства разработки ПО
 #### • Backend:  
       o Язык программирования С#;
-      o Microsoft SQL Server Managment Studio 
+      o Microsoft SQL Server Managment Studio;  
       o Платформа разработки веб-приложений ASP.NET Core;  
       o Технология доступа к данным Entity Framework Core;  
 
