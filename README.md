@@ -69,7 +69,7 @@
 Работа с Сisco Packet Tracer.
 
 Материалы о выполнении лабораторной работы:
-1.  <a href=> Сценарий </a>
-2.<a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/CISCO%20LR3-seti5/IDB-18-02_Saad_Ali_LR5_Seti%20.docx> Отчёт </a>
+1.  <a href=> Сценарий </a>  
+2. <a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/CISCO%20LR3-seti5/IDB-18-02_Saad_Ali_LR5_Seti%20.docx> Отчёт </a>
 ## ✅ Экзаменационный билет
 Ответ на экзаменационный билет доступен по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28> билет 28 </a>
