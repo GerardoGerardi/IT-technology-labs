@@ -63,8 +63,8 @@
       o Распределённая система управления версиями Git;  
       o Веб-сервис для хостинга IT-проектов и их совместной разработки GitHub.  
 ## Работа над проектом ведется в команде.  
-Репозиторий командного проекта доступен по ссылке:  <a href=https://github.com/S7yka4/IT_Project> IT_Project  </a>  
-Веб-страница с описанием проекта доступна по ссылке:  <a href=https://github.com/GerardoGerardi/IT-technology-workout> Landing page  </a>    
+Репозиторий командного проекта доступен по ссылке:  <a href=https://github.com/GerardoGerardi/IT_Projectt  </a>  
+Веб-страница с описанием проекта доступна по ссылке:  <a href=https://s7yka4.github.io/IT_Project/> Landing page  </a>    
 
 
 ## ✅ Лабораторная работа № 3  
