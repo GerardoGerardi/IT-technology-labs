@@ -111,4 +111,4 @@
 3. Информация о <a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%20%D0%BF%D0%BE%20%D0%9B%D0%A03%20%2C%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20CISCO/Seti_khod_vypolnenia_lr4_saad.txt>   конфигурации  </a> устройств
 ## ✅ Экзаменационный билет
 Ответ на экзаменационный билет доступен по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28> Билет 28</a>.  
-История изменений экзаменационного билета доступна по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28/_compare/b9ae600b318ad1e8f45d6a562f52174294bed85e> Коммит в билете 28</a>.
+История изменений экзаменационного билета доступна по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28/_compare/b9ae600b318ad1e8f45d6a562f52174294bed85e> Сравнение коммитов в билете 28</a>.
